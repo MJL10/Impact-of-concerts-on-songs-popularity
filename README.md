@@ -1,1 +1,2 @@
 # Impact-of-concerts-on-songs-popularity
+The theme of the project was "Music". Working in a three-person team, we checked the impact of concerts on the popularity of songs. For this purpose, we used data from the top 200 spotify in 2017-2019. Based on this, we checked the impact of Ed Sheeran's concert tour - "Divide Tour" on the popularity of songs from the album of the same name in European countries. The project has been made in R and all visualizations in R ggplot2.
